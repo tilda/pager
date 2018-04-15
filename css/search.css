@@ -5,6 +5,7 @@ input[type="text"] {
   outline: none;
   font-size: 1em;
   color: #f5f5f5;
+  background-color: #4cbf99;
   border-bottom: 2px solid rgba(255, 255, 255, .7);
   width: 10em;
   font-family: 'Roboto Mono', monospace;
