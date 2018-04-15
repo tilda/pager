@@ -1,13 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 /* thanks alexflipnote (again) */
 input[type="text"] {
   border: none;
   outline: none;
-  font-size: 1.5em;
-  padding: .5em;
+  font-size: 1em;
   color: black;
   background: #4cbf99;
   border-bottom: 2px solid rgba(255, 255, 255, .7);
   width: 10em;
+  font-family: 'Roboto Mono', monospace;
 }
 
 input[type="text"]:focus {
