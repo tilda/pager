@@ -1,0 +1,5 @@
+/* All components are now in 1 file */
+@import url("colors.css");
+@import url("etc.css");
+@import url("footer.css");
+@import url("search.css");
