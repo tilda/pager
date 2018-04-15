@@ -4,7 +4,7 @@ input[type="text"] {
   border: none;
   outline: none;
   font-size: 1em;
-  color: white;
+  color: rgba(255, 255, 255, 0.8) !important;
   background-color: #4cbf99;
   border-bottom: 2px solid rgba(255, 255, 255, .7);
   width: 10em;
