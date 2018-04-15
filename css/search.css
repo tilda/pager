@@ -5,10 +5,13 @@ input[type="text"] {
   outline: none;
   font-size: 1em;
   color: #f5f5f5;
-  background: #4cbf99;
   border-bottom: 2px solid rgba(255, 255, 255, .7);
   width: 10em;
   font-family: 'Roboto Mono', monospace;
+}
+
+input[type="text"], input[type="text"]:focus, input[type="text"]:focus::-webkit-input-placeholder {
+  transition: all 500ms ease;
 }
 
 input[type="text"]:focus {
